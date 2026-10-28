@@ -2,4 +2,7 @@
 102;Mouse;49.90
 103;Monitor;799.90
 104;Webcam;159.90
-105;Headset;129.90106;Impressora;599.90 
+105;Headset;129.90
+106;Impressora;599.90 
+107;Pc_gamer_completo_montado_games_overclocado;10000.67 
+108;GTA 8;850.08
